@@ -1,8 +1,7 @@
-# vscode-stories-api
+vscode-stories-api
 
 https://github.com/ide-stories/vscode-stories
-
-# How to run on your computer
+How to run on your computer
 
 1. Have PostgreSQL running on your computer
 2. Create a database called `stories`
